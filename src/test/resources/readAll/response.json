@@ -1,0 +1,227 @@
+{
+  "total": 93,
+  "limit": 20,
+  "page": 1,
+  "books": [
+    {
+      "id": 1,
+      "author": "Chinua Achebe",
+      "country": "Nigeria",
+      "image_link": "images/things-fall-apart.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+      "pages": 209,
+      "title": "Things Fall Apart",
+      "year": 1958
+    },
+    {
+      "id": 2,
+      "author": "Hans Christian Andersen",
+      "country": "Denmark",
+      "image_link": "images/fairy-tales.jpg",
+      "language": "Danish",
+      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
+      "pages": 784,
+      "title": "Fairy tales",
+      "year": 1836
+    },
+    {
+      "id": 3,
+      "author": "Dante Alighieri",
+      "country": "Italy",
+      "image_link": "images/the-divine-comedy.jpg",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
+      "pages": 928,
+      "title": "The Divine Comedy",
+      "year": 1315
+    },
+    {
+      "id": 4,
+      "author": "Jane Austen",
+      "country": "United Kingdom",
+      "image_link": "images/pride-and-prejudice.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "pages": 226,
+      "title": "Pride and Prejudice",
+      "year": 1813
+    },
+    {
+      "id": 5,
+      "author": "Honoré de Balzac",
+      "country": "France",
+      "image_link": "images/le-pere-goriot.jpg",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot",
+      "pages": 443,
+      "title": "Le Père Goriot",
+      "year": 1835
+    },
+    {
+      "id": 6,
+      "author": "Samuel Beckett",
+      "country": "Republic of Ireland",
+      "image_link": "images/molloy-malone-dies-the-unnamable.jpg",
+      "language": "French,  English",
+      "link": "https://en.wikipedia.org/wiki/Molloy_(novel)",
+      "pages": 256,
+      "title": "Molloy,  Malone Dies,  The Unnamable,  the trilogy",
+      "year": 1952
+    },
+    {
+      "id": 7,
+      "author": "Giovanni Boccaccio",
+      "country": "Italy",
+      "image_link": "images/the-decameron.jpg",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/The_Decameron",
+      "pages": 1024,
+      "title": "The Decameron",
+      "year": 1351
+    },
+    {
+      "id": 8,
+      "author": "Jorge Luis Borges",
+      "country": "Argentina",
+      "image_link": "images/ficciones.jpg",
+      "language": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Ficciones",
+      "pages": 224,
+      "title": "Ficciones",
+      "year": 1965
+    },
+    {
+      "id": 9,
+      "author": "Emily Brontë",
+      "country": "United Kingdom",
+      "image_link": "images/wuthering-heights.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Wuthering_Heights",
+      "pages": 342,
+      "title": "Wuthering Heights",
+      "year": 1847
+    },
+    {
+      "id": 10,
+      "author": "Albert Camus",
+      "country": "Algeria,  French Empire",
+      "image_link": "images/l-etranger.jpg",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)",
+      "pages": 185,
+      "title": "The Stranger",
+      "year": 1942
+    },
+    {
+      "id": 11,
+      "author": "Paul Celan",
+      "country": "Romania,  France",
+      "image_link": "images/poems-paul-celan.jpg",
+      "language": "German",
+      "link": null,
+      "pages": 320,
+      "title": "Poems",
+      "year": 1952
+    },
+    {
+      "id": 12,
+      "author": "Louis-Ferdinand Céline",
+      "country": "France",
+      "image_link": "images/voyage-au-bout-de-la-nuit.jpg",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night",
+      "pages": 505,
+      "title": "Journey to the End of the Night",
+      "year": 1932
+    },
+    {
+      "id": 13,
+      "author": "Miguel de Cervantes",
+      "country": "Spain",
+      "image_link": "images/don-quijote-de-la-mancha.jpg",
+      "language": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Don_Quixote",
+      "pages": 1056,
+      "title": "Don Quijote De La Mancha",
+      "year": 1610
+    },
+    {
+      "id": 14,
+      "author": "Geoffrey Chaucer",
+      "country": "England",
+      "image_link": "images/the-canterbury-tales.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales",
+      "pages": 544,
+      "title": "The Canterbury Tales",
+      "year": 1450
+    },
+    {
+      "id": 15,
+      "author": "Anton Chekhov",
+      "country": "Russia",
+      "image_link": "images/stories-of-anton-chekhov.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov",
+      "pages": 194,
+      "title": "Stories",
+      "year": 1886
+    },
+    {
+      "id": 16,
+      "author": "Joseph Conrad",
+      "country": "United Kingdom",
+      "image_link": "images/nostromo.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Nostromo",
+      "pages": 320,
+      "title": "Nostromo",
+      "year": 1904
+    },
+    {
+      "id": 17,
+      "author": "Charles Dickens",
+      "country": "United Kingdom",
+      "image_link": "images/great-expectations.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Great_Expectations",
+      "pages": 194,
+      "title": "Great Expectations",
+      "year": 1861
+    },
+    {
+      "id": 18,
+      "author": "Denis Diderot",
+      "country": "France",
+      "image_link": "images/jacques-the-fatalist.jpg",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist",
+      "pages": 596,
+      "title": "Jacques the Fatalist",
+      "year": 1796
+    },
+    {
+      "id": 19,
+      "author": "Alfred Döblin",
+      "country": "Germany",
+      "image_link": "images/berlin-alexanderplatz.jpg",
+      "language": "German",
+      "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz",
+      "pages": 600,
+      "title": "Berlin Alexanderplatz",
+      "year": 1929
+    },
+    {
+      "id": 20,
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "image_link": "images/crime-and-punishment.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment",
+      "pages": 551,
+      "title": "Crime and Punishment",
+      "year": 1866
+    }
+  ]
+}

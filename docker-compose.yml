@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  books-postgresql:
+    container_name: book-store-postgresql
+    image: postgres:12-alpine
+    environment:
+      POSTGRES_DB: books
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: AXEe263eqPFqwy4z
+    ports:
+      - "5432:5432"
+    volumes:
+      - book-store-postgresql-local:/var/lib/postgresql/data
+
+  books-prometheus:
+    container_name: book-store-prometheus
+    image: prom/prometheus:v2.24.0
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+
+  books-grafana:
+    container_name: book-store-grafana
+    image: grafana/grafana:7.3.7
+    ports:
+      - "3000:3000"
+
+volumes:
+  book-store-postgresql-local:
+
+networks:
+  default:
+    external:
+      name: vertx-4-reactive-rest-api-network
